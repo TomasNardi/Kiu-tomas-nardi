@@ -50,3 +50,19 @@ xdg-open index.html
 ![API Documentation Diagram](assets/diagram.png)
 
 After installation, you can start the API server and begin making requests to search and manage flight information.
+
+---
+
+## Plus (Backend and Frontend Deployment)
+
+For the technical challenge, I also set up two servers: the one requested by the interviewers and a responsive React front-end.
+The backend service was deployed on Render, and the front-end on Vercel.
+Since it’s already live, I cloned the repository and configured it in another repo, which I can provide if needed.
+
+Usage link: https://kiu-front.vercel.app/
+
+![Imagen](assets/kiuapp.png)
+
+Api Response in Production 
+
+![Imagen](assets/kiuapp2.png)

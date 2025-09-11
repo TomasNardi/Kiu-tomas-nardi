@@ -61,8 +61,8 @@ Since it’s already live, I cloned the repository and configured it in another 
 
 Usage link: https://kiu-front.vercel.app/
 
-![Imagen](assets/kiuapp.png)
+![Imagen](assets/kiuapp1.png)
 
 Api Response in Production 
 
-![Imagen](assets/kiuapp2.png)
+![Imagen](assets/kiuapp3.png)
